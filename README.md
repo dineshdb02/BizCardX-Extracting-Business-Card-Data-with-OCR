@@ -10,10 +10,16 @@ Additionally, BizCardX allows users to save the extracted information into a dat
 
 Technologies:
 
-OCR (Optical Character Recognition)
-Streamlit GUI (Graphical User Interface)
-SQL (Structured Query Language) for database management
-Data Extraction techniques
+1) EasyOCR (Optical Character Recognition)
+
+2) Streamlit GUI (Graphical User Interface)
+
+3) SQL (Structured Query Language) for database management
+
+4) Data Extraction techniques
+
+
+
 
 Problem Statement:
 
