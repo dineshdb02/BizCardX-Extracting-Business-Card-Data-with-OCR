@@ -14,22 +14,28 @@ OCR (Optical Character Recognition)
 Streamlit GUI (Graphical User Interface)
 SQL (Structured Query Language) for database management
 Data Extraction techniques
-Problem Statement
+
+Problem Statement:
+
 The project addresses the challenge of efficiently extracting relevant information from business cards. Traditionally, manually transcribing information from business cards can be time-consuming and prone to errors. BizCardX automates this process by leveraging OCR technology, providing users with a convenient and accurate way to digitize business card data.
 
-Approach
+Approach:
 
 Install Required Packages: Set up Python, Streamlit, easyOCR, and a suitable database management system such as SQLite or MySQL.
 
-Design User Interface: Create a user-friendly interface using Streamlit, guiding users through the process of uploading business card images and extracting information. Utilize widgets like file uploaders, buttons, and text boxes for interaction.
+Design User Interface: 
 
-Implement OCR and Image Processing: Utilize easyOCR to extract relevant information from uploaded business card images. Apply image processing techniques like resizing and thresholding to enhance OCR accuracy.
+Create a user-friendly interface using Streamlit, guiding users through the process of uploading business card images and extracting information. Utilize widgets like file uploaders, buttons, and text boxes for interaction.
 
-Display Extracted Information: Present the extracted information in a structured format within the Streamlit GUI, using elements like tables and text boxes for clarity.
+Implement OCR and Image Processing: 
 
-Database Integration: Implement database functionality using SQL to store extracted information and associated images. Enable CRUD operations for managing stored data.
+Utilize easyOCR to extract relevant information from uploaded business card images. Apply image processing techniques like resizing and thresholding to enhance OCR accuracy.
 
-Testing and Improvement: Thoroughly test the application to ensure functionality and reliability. Continuously enhance the application by adding features, optimizing code, and addressing bugs.
+Display Extracted Information: 
+
+Present the extracted information in a structured format within the Streamlit GUI, using elements like tables and text boxes for clarity.
+
+
 
 Results
 
